@@ -1,7 +1,8 @@
 - 👋 YO, I’m Parker
 - 👀 I’m interested in Hacking, Programming, Coding
 - 🌱 I’m currently learning Java
-- 📫 How to reach me Telegram: @pixelparker
+- 📫 How to reach me:
+-  Telegram: @pixelparker
 
 <!---
 ParkerVIRUS/ParkerVIRUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
